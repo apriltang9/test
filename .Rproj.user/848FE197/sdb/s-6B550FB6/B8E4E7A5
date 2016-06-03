@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "df <- mtcars",
+    "created" : 1464991804437.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3469552621",
+    "id" : "B8E4E7A5",
+    "lastKnownWriteTime" : 1464991822,
+    "last_content_update" : 1464991822155,
+    "path" : "~/test/main.R",
+    "project_path" : "main.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
