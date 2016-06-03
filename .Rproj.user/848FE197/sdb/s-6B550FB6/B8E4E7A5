@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "df <- mtcars",
+    "contents" : "regression <- lm(mtcars$mpg ~ mtcars$disp + mtcars$hp)\nsummary(regression)\n",
     "created" : 1464991804437.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3469552621",
+    "hash" : "827843174",
     "id" : "B8E4E7A5",
-    "lastKnownWriteTime" : 1464991822,
-    "last_content_update" : 1464991822155,
+    "lastKnownWriteTime" : 1464992848,
+    "last_content_update" : 1464992848360,
     "path" : "~/test/main.R",
     "project_path" : "main.R",
     "properties" : {
